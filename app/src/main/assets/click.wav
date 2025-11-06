@@ -1,0 +1,3 @@
+# PLACEHOLDER FILE
+# Replace this file with an actual WAV audio file for the metronome click sound
+# The AudioManager expects this file to be a valid audio file that MediaPlayer can play

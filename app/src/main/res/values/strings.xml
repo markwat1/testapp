@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="bpm_label">BPM</string>
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="bpm_slider">BPM Slider</string>
+</resources>
