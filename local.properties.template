@@ -1,0 +1,10 @@
+# This file contains machine-specific properties for the Android build system.
+# Copy this file to 'local.properties' and update the paths for your system.
+
+# Location of the Android SDK
+# Example for Linux/macOS: /home/username/Android/Sdk
+# Example for Windows: C\:\\Users\\username\\AppData\\Local\\Android\\Sdk
+sdk.dir=/path/to/your/Android/Sdk
+
+# Optional: Specify Java home if not using system default
+# org.gradle.java.home=/path/to/your/java/home
